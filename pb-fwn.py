@@ -3,7 +3,7 @@ bl_info = {
     "description": "Weights normals based on face area, using the face vector for fine tuning.",
     "author": "Steven Raybell (popcornbag); Original Author: Simon Lusenc (50keda)",
     "version": (0, 2),
-    "blender": (2, 79, 0),
+    "blender": (2, 80, 0),
     "location": "3D View > Quick Search > Weight Normals",
     "category": "Object",
     "support": "COMMUNITY"
